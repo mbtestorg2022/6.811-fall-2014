@@ -9,18 +9,177 @@ Student Presentation Videos
 
 In addition to each team's section, complete versions of the [Mid-Semester Presentations]({{< baseurl >}}/pages/presentations/mid-semester-presentations) and [Final Presentations]({{< baseurl >}}/pages/presentations/final-presentations) videos including a searchable transcript are available.
 
-| TEAMS | PROJECT DESCRIPTIONS | MID-SEMESTER PRESENTATIONS | FINAL PRESENTATIONS |
-| --- | --- | --- | --- |
-| Team Paul | An attachment to enable a user with forearm crutches to carry coffee without spilling. | [Mid-Semester Presentations (Paul)]({{< baseurl >}}/resources/mid-semester-presentations2) | [Final Presentations (Paul)]({{< baseurl >}}/resources/copy8_of_final-presentations2) |
-| Team Margaret | A call-button app which allows users to request urgent or non-urgent assistance from their iPad. | [Mid-Semester Presentations (Margaret)]({{< baseurl >}}/resources/copy_of_mid-semester-presentations2) | [Final Presentations (Margaret)]({{< baseurl >}}/resources/copy5_of_final-presentations2) |
-| Team Kate | Covers for cochlear implants to protect from rain and improve hearing. | [Mid-Semester Presentations (Kate)]({{< baseurl >}}/resources/copy2_of_mid-semester-presentations2) | [Final Presentations (Kate)]({{< baseurl >}}/resources/final-presentations2) |
-| Team Jeffrey | A framework to allow a blind client to sign legal documents in ink. | [Mid-Semester Presentations (Jeffrey)]({{< baseurl >}}/resources/copy3_of_mid-semester-presentations2) | [Final Presentations (Jeffrey)]({{< baseurl >}}/resources/copy3_of_final-presentations2) |
-| Team Beverley-Ann | A glove to alert a user when her grip is slipping. | [Mid-Semester Presentations (Beverley-Ann)]({{< baseurl >}}/resources/copy4_of_mid-semester-presentations2) | [Final Presentations (Beverley-Ann)]({{< baseurl >}}/resources/copy6_of_final-presentations2) |
-| Team Barbara | A text-to-speech app for a user with difficulty speaking. | [Mid-Semester Presentations (Barbara)]({{< baseurl >}}/resources/copy5_of_mid-semester-presentations2) | [Final Presentations (Barbara)]({{< baseurl >}}/resources/copy9_of_final-presentations2) |
-| Team Art | Mobile, compact wheelchair lift. | [Mid-Semester Presentations (Art)]({{< baseurl >}}/resources/copy6_of_mid-semester-presentations2) | [Final Presentations (Art)]({{< baseurl >}}/resources/copy7_of_final-presentations2) |
-| Team Chris | App to assist a wheelchair-bound client reliably and efficiently navigate a college campus. | [Mid-Semester Presentations (Chris)]({{< baseurl >}}/resources/copy7_of_mid-semester-presentations2) | [Final Presentations (Chris)]({{< baseurl >}}/resources/copy_of_final-presentations2) |
-| Team Felicity | Device to alert hearing- and sight-impaired client when someone requests their attention. | [Mid-Semester Presentations (Felicity)]({{< baseurl >}}/resources/copy8_of_mid-semester-presentations2) | [Final Presentations (Felicity)]({{< baseurl >}}/resources/copy4_of_final-presentations2) |
-| Team Don | App to remind client with memory loss of pending tasks. | [Mid-Semester Presentations (Don)]({{< baseurl >}}/resources/copy9_of_mid-semester-presentations2) | [Final Presentations (Don)]({{< baseurl >}}/resources/copy2_of_final-presentations2) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TEAMS
+{{< thclose >}}
+{{< thopen >}}
+PROJECT DESCRIPTIONS
+{{< thclose >}}
+{{< thopen >}}
+MID-SEMESTER PRESENTATIONS
+{{< thclose >}}
+{{< thopen >}}
+FINAL PRESENTATIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team Paul
+{{< tdclose >}}
+{{< tdopen >}}
+An attachment to enable a user with forearm crutches to carry coffee without spilling.
+{{< tdclose >}}
+{{< tdopen >}}
+[Mid-Semester Presentations (Paul)]({{< baseurl >}}/resources/mid-semester-presentations2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Final Presentations (Paul)]({{< baseurl >}}/resources/copy8_of_final-presentations2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team Margaret
+{{< tdclose >}}
+{{< tdopen >}}
+A call-button app which allows users to request urgent or non-urgent assistance from their iPad.
+{{< tdclose >}}
+{{< tdopen >}}
+[Mid-Semester Presentations (Margaret)]({{< baseurl >}}/resources/copy_of_mid-semester-presentations2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Final Presentations (Margaret)]({{< baseurl >}}/resources/copy5_of_final-presentations2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team Kate
+{{< tdclose >}}
+{{< tdopen >}}
+Covers for cochlear implants to protect from rain and improve hearing.
+{{< tdclose >}}
+{{< tdopen >}}
+[Mid-Semester Presentations (Kate)]({{< baseurl >}}/resources/copy2_of_mid-semester-presentations2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Final Presentations (Kate)]({{< baseurl >}}/resources/final-presentations2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team Jeffrey
+{{< tdclose >}}
+{{< tdopen >}}
+A framework to allow a blind client to sign legal documents in ink.
+{{< tdclose >}}
+{{< tdopen >}}
+[Mid-Semester Presentations (Jeffrey)]({{< baseurl >}}/resources/copy3_of_mid-semester-presentations2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Final Presentations (Jeffrey)]({{< baseurl >}}/resources/copy3_of_final-presentations2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team Beverley-Ann
+{{< tdclose >}}
+{{< tdopen >}}
+A glove to alert a user when her grip is slipping.
+{{< tdclose >}}
+{{< tdopen >}}
+[Mid-Semester Presentations (Beverley-Ann)]({{< baseurl >}}/resources/copy4_of_mid-semester-presentations2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Final Presentations (Beverley-Ann)]({{< baseurl >}}/resources/copy6_of_final-presentations2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team Barbara
+{{< tdclose >}}
+{{< tdopen >}}
+A text-to-speech app for a user with difficulty speaking.
+{{< tdclose >}}
+{{< tdopen >}}
+[Mid-Semester Presentations (Barbara)]({{< baseurl >}}/resources/copy5_of_mid-semester-presentations2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Final Presentations (Barbara)]({{< baseurl >}}/resources/copy9_of_final-presentations2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team Art
+{{< tdclose >}}
+{{< tdopen >}}
+Mobile, compact wheelchair lift.
+{{< tdclose >}}
+{{< tdopen >}}
+[Mid-Semester Presentations (Art)]({{< baseurl >}}/resources/copy6_of_mid-semester-presentations2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Final Presentations (Art)]({{< baseurl >}}/resources/copy7_of_final-presentations2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team Chris
+{{< tdclose >}}
+{{< tdopen >}}
+App to assist a wheelchair-bound client reliably and efficiently navigate a college campus.
+{{< tdclose >}}
+{{< tdopen >}}
+[Mid-Semester Presentations (Chris)]({{< baseurl >}}/resources/copy7_of_mid-semester-presentations2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Final Presentations (Chris)]({{< baseurl >}}/resources/copy_of_final-presentations2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team Felicity
+{{< tdclose >}}
+{{< tdopen >}}
+Device to alert hearing- and sight-impaired client when someone requests their attention.
+{{< tdclose >}}
+{{< tdopen >}}
+[Mid-Semester Presentations (Felicity)]({{< baseurl >}}/resources/copy8_of_mid-semester-presentations2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Final Presentations (Felicity)]({{< baseurl >}}/resources/copy4_of_final-presentations2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team Don
+{{< tdclose >}}
+{{< tdopen >}}
+App to remind client with memory loss of pending tasks.
+{{< tdclose >}}
+{{< tdopen >}}
+[Mid-Semester Presentations (Don)]({{< baseurl >}}/resources/copy9_of_mid-semester-presentations2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Final Presentations (Don)]({{< baseurl >}}/resources/copy2_of_final-presentations2)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Note: Some teams changed projects between the mid-semester and final presentations._
 

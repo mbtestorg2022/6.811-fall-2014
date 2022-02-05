@@ -61,15 +61,84 @@ Some examples of past projects have included:
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 4 Blog Posts | 10% |
-| Video documenting either client challenge or design process | 10% |
-| Mid-semester presentations | 10% |
-| Final-semester presentations | 10% |
-| Online, open-source documentation & press release (+ high quality photos) | 20% |
-| Attendance, discussion participation, lab check-ins (i.e. mentor feedback) | 20% |
-| Client and peer feedback | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4 Blog Posts
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Video documenting either client challenge or design process
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-semester presentations
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final-semester presentations
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Online, open-source documentation & press release (+ high quality photos)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance, discussion participation, lab check-ins (i.e. mentor feedback)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Client and peer feedback
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture and Lab Expectations
 ----------------------------
