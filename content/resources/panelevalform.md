@@ -4,6 +4,7 @@ description: "Evaluation form used by guest panelists to assess students\u2019 m
   \ and final-semester presentations."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/38258428b96a5ce3e4a69f9f8f26d801_PanelEvalForm.pdf
 file_type: application/pdf
+parent_uid: 93006bd3-39e1-f7b8-55d5-4958641b37da
 resourcetype: Document
 title: Mid-Semester Panel Evaluation Form
 uid: 38258428-b96a-5ce3-e4a6-9f9f8f26d801

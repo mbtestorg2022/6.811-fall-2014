@@ -5,6 +5,7 @@ description: "Assignment for each project team to submit\_a\_report\_describing\
   \ work."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/e7d9c3dbf99b617ef4110a62a97fb1ae_MIT6_811F14_MidSemstrRprt.pdf
 file_type: application/pdf
+parent_uid: dfaf2dab-a9b3-0da0-8de2-5636cc6d1702
 resourcetype: Document
 title: "Mid\xADSemester Report"
 uid: e7d9c3db-f99b-617e-f411-0a62a97fb1ae

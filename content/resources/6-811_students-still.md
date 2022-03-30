@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 93006bd3-39e1-f7b8-55d5-4958641b37da
 resourcetype: Image
 title: 6.811 Students Still
 uid: 3d2f2a66-0c1c-af5f-ca7d-829f7e9e7a9f

@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 93006bd3-39e1-f7b8-55d5-4958641b37da
 resourcetype: Image
 title: Insights Thumb
 uid: 85dc902e-b0a7-f29e-4a5d-2adf42ba0cea

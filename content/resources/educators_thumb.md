@@ -9,6 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 93006bd3-39e1-f7b8-55d5-4958641b37da
 resourcetype: Image
 title: Educators Thumb
 uid: 59e88a32-e917-cdcf-bad9-aa4a18ce99ed

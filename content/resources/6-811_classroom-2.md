@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 93006bd3-39e1-f7b8-55d5-4958641b37da
 resourcetype: Image
 title: 6.811 Classroom 2
 uid: adcff9b1-d6d6-f6bd-4412-86f53a62bb08
